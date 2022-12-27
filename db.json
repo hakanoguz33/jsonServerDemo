@@ -28,14 +28,14 @@
       "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844–1922%29.svg/200px-Flag_of_the_Ottoman_Empire_%281844–1922%29.svg.png",
       "food": [
         {
-          "name": "Kuru Fasulye",
-          "imageUrl": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/11/kuru-fasulye-yemekcom.jpg",
-          "materials": "2 su bardağı kuru fasulye,300 gr dana kuşbaşı et,1 tane kuru soğan,1 tane sivri biber,1 yemek kaşığı domates salçası,1 tatlı kaşığı acı biber salçası,Tuz, 4.5 -5 bardak sıcak su, Çok az sıvı yağ, 1 tane küp şeker"
+          "name": "Hamburger",
+          "imageUrl": "http://clipart-library.com/images/kiMb77dyT.png",
+          "materials": "Hamburger ekmeği için,1.5 su bardağı ılık su,1 su bardağı ılık süt,125 gram erimiş tereyağı veya margarin,Yarım paket yaş maya veya 1 yemek kaşığı kuru maya,2 tatlı kaşığı toz şeker,1 tatlı kaşığı tuz,Alabildiğince un,Su veya süt,Beyaz susam,600 gr kıyma,1 tatlı kaşığı tuz,1 tatlı kaşığı karabiber,1 yemek kaşığı hardal,2 yemek kaşığı galeta unu,Hamburgerin içindeki diğer malzemeler,Marul,Domates,Soğan,Kornişon,Cheddar peyniri (yoksa önemli değil),Ketçap ve mayonez (isteğe bağlı olarak)"
         },
         {
-          "name": "Islak Fasulye",
-          "imageUrl": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/11/kuru-fasulye-yemekcom.jpg",
-          "materials": "2 su bardağı kuru fasulye,300 gr dana kuşbaşı et,1 tane kuru soğan,1 tane sivri biber,1 yemek kaşığı domates salçası,1 tatlı kaşığı acı biber salçası,Tuz, 4.5 -5 bardak sıcak su, Çok az sıvı yağ, 1 tane küp şeker"
+          "name": "Köfte Ekmek",
+          "imageUrl": "http://clipart-library.com/images/qTBX94qMc.png",
+          "materials": "8'li köfte(kasaptan da alınabilir),ekmek"
         }
       ]
     },
@@ -46,13 +46,23 @@
       "food": [
         {
           "name": "Hamburger",
-          "imageUrl": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/11/kuru-fasulye-yemekcom.jpg",
-          "materials": "2 su bardağı kuru fasulye,300 gr dana kuşbaşı et,1 tane kuru soğan,1 tane sivri biber,1 yemek kaşığı domates salçası,1 tatlı kaşığı acı biber salçası,Tuz, 4.5 -5 bardak sıcak su, Çok az sıvı yağ, 1 tane küp şeker"
+          "imageUrl": "http://clipart-library.com/images/kiMb77dyT.png",
+          "materials": "Hamburger ekmeği için,1.5 su bardağı ılık su,1 su bardağı ılık süt,125 gram erimiş tereyağı veya margarin,Yarım paket yaş maya veya 1 yemek kaşığı kuru maya,2 tatlı kaşığı toz şeker,1 tatlı kaşığı tuz,Alabildiğince un,Su veya süt,Beyaz susam,600 gr kıyma,1 tatlı kaşığı tuz,1 tatlı kaşığı karabiber,1 yemek kaşığı hardal,2 yemek kaşığı galeta unu,Hamburgerin içindeki diğer malzemeler,Marul,Domates,Soğan,Kornişon,Cheddar peyniri (yoksa önemli değil),Ketçap ve mayonez (isteğe bağlı olarak)"
         },
         {
           "name": "Hotdog",
-          "imageUrl": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/11/kuru-fasulye-yemekcom.jpg",
-          "materials": "2 su bardağı kuru fasulye,300 gr dana kuşbaşı et,1 tane kuru soğan,1 tane sivri biber,1 yemek kaşığı domates salçası,1 tatlı kaşığı acı biber salçası,Tuz, 4.5 -5 bardak sıcak su, Çok az sıvı yağ, 1 tane küp şeker"
+          "imageUrl": "http://clipart-library.com/img/1791519.png",
+          "materials": "4 adet sandviç ekmeği,4 adet uzun sosis,1 yemek kaşığı margarin,1 yemek kaşığı salça,1/2 tatlı kaşığı un,1.5 su bardağı sıcak su,1/4 çay bardağı sirke,1 diş sarımsak"
+        },
+        {
+          "name": "Pizza",
+          "imageUrl": "http://clipart-library.com/images/rcjKbxGXi.png",
+          "materials": "5 su bardağı un,1 paket instant maya (ya da yarım paket yaş maya),1 yemek kaşığı toz şeker,Yarım yemek kaşığı tuz,4 yemek kaşığı zeytinyağı,2 su bardağı ılık su"
+        },
+        {
+          "name": "Pankek",
+          "imageUrl": "http://clipart-library.com/images/XpioraTEz.png",
+          "materials": "5 su bardağı un,1 paket instant maya (ya da yarım paket yaş maya),1 yemek kaşığı toz şeker,Yarım yemek kaşığı tuz,4 yemek kaşığı zeytinyağı,2 su bardağı ılık su"
         }
       ]
     }
